@@ -13,7 +13,7 @@
     right: 1rem;
     width: 2rem;
     height: 2rem;
-    background-image: url('C:/Users/vinic/Documents/DIO/Projetos/portifolioProfissional/Imagens/img/icons/header.svg');
+    background-image: url('https://raw.githubusercontent.com/Vinicius-Vidal-Silva/JavaScript-portf-lio/0db9c85136ba6c2d8b7117f2a7cd86cbfc4e0c33/Imagens/img/icons/header.svg');
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: 0.5rem;
@@ -57,16 +57,16 @@
 }
 
 .information .job::before{
-    background-image: url('C:/Users/vinic/Documents/DIO/Projetos/portifolioProfissional/Imagens/img/icons/job.svg');
+    background-image: url('https://raw.githubusercontent.com/Vinicius-Vidal-Silva/JavaScript-portf-lio/0db9c85136ba6c2d8b7117f2a7cd86cbfc4e0c33/Imagens/img/icons/job.svg');
 }
 .information .location::before{
-    background-image: url('C:/Users/vinic/Documents/DIO/Projetos/portifolioProfissional/Imagens/img/icons/location.svg');
+    background-image: url('https://raw.githubusercontent.com/Vinicius-Vidal-Silva/JavaScript-portf-lio/0db9c85136ba6c2d8b7117f2a7cd86cbfc4e0c33/Imagens/img/icons/location.svg');
 }
 .information .email::before{
-    background-image: url('C:/Users/vinic/Documents/DIO/Projetos/portifolioProfissional/Imagens/img/icons/email.svg');
+    background-image: url('https://raw.githubusercontent.com/Vinicius-Vidal-Silva/JavaScript-portf-lio/0db9c85136ba6c2d8b7117f2a7cd86cbfc4e0c33/Imagens/img/icons/email.svg');
 }
 .information .phone::before{
-    background-image: url('C:/Users/vinic/Documents/DIO/Projetos/portifolioProfissional/Imagens/img/icons/phone.svg');
+    background-image: url('https://raw.githubusercontent.com/Vinicius-Vidal-Silva/JavaScript-portf-lio/0db9c85136ba6c2d8b7117f2a7cd86cbfc4e0c33/Imagens/img/icons/phone.svg');
 }
 
 @media only screen and (min-width: 768px) {
